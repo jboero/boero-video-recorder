@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Video Capture
+Comment=Capture analogue video via V4L2 with live preview and VAAPI encoding
+Exec=video-capture
+Icon=video-capture
+Terminal=false
+Type=Application
+Categories=AudioVideo;Video;Recorder;
+Keywords=capture;v4l2;capture;analog;video;record;
+StartupNotify=true
