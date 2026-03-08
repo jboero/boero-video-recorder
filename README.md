@@ -4,7 +4,8 @@ A single-file PyQt6 application for capturing analogue video from V4L2 USB
 capture cards. Designed for digitising VHS, Hi8, Betamax, and other analogue
 sources on Linux with full hardware-accelerated encoding support.
 
-![screenshot placeholder](docs/screenshot.png)
+![boero_video_recorder](https://github.com/user-attachments/assets/fdae0751-ac73-4763-b167-423fc121c42e)
+
 
 ---
 
